@@ -18,6 +18,9 @@ Behavioral analysis of 2M+ user events on an e-commerce platform (Oct 2019 - Feb
 - 90% of new customers do not return after first purchase (LTV: 41.50€ median)
 - Sales volume concentrates in Black Friday week
 
+## Data
+Dataset not included due to file size. Available on Kaggle: [eCommerce behavior data from multi category store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
 ## Stack
 
 Python · Pandas · NumPy · Plotly · Seaborn · Matplotlib · Scipy · Scikit-learn
